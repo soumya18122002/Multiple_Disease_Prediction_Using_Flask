@@ -1,0 +1,17 @@
+body{
+    background-image: url('../image/diabetes.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#pred_bold{
+    font-size: 40px;
+    /* color: yellowgreen; */
+}
+/* label{
+    color: green;
+} */
+*{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-family: 'Kalam', cursive;
+}

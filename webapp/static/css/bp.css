@@ -1,0 +1,14 @@
+body{
+    background-image: url('../image/blood_pressure.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#pred_bold{
+    font-size: 40px;
+    /* color: yellowgreen; */
+}
+*{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-family: 'Kalam', cursive;
+}
