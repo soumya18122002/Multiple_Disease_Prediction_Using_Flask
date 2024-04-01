@@ -1,0 +1,15 @@
+body{
+    background-image: url('../image/kidney.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: white;
+}
+#pred_bold{
+    font-size: 40px;
+    /* color: yellowgreen; */
+}
+*{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-family: 'Kalam', cursive;
+}
