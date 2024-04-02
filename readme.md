@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
 ## Credits
 
-This project is developed by [Soumyadeep Dawn](https://github.com/soumya18122002), Sambita Majumdar and Srijoni Kumar as a part of University of Engineering and Management, Kolkata. Special thanks to [Harsh Singh](https://github.com/karmathecoder).
+This project is developed by [Soumyadeep Dawn](https://github.com/soumya18122002), [Sambita Majumdar](https://github.com/Sambita-832002) and Srijoni Kumar as a part of University of Engineering and Management, Kolkata. Special thanks to [Harsh Singh](https://github.com/karmathecoder).
 
 ## Contributing
 
