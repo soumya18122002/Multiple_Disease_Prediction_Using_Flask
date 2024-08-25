@@ -11,13 +11,13 @@ warnings.filterwarnings('ignore')
 
 app = Flask(__name__)
 
-heart_model = pickle.load(open('webapp/model/heart.pkl', 'rb'))
-bp_model = pickle.load(open('webapp/model/bp.pkl', 'rb'))
-diabetes_model = pickle.load(open('webapp/model/diabetes.pkl', 'rb'))
-bc_model = pickle.load(open('webapp/model/bc.pkl', 'rb'))
-kd_model = load_model('webapp/model/kd.h5')
+heart_model = pickle.load(open('model/heart.pkl', 'rb'))
+bp_model = pickle.load(open('model/bp.pkl', 'rb'))
+diabetes_model = pickle.load(open('model/diabetes.pkl', 'rb'))
+bc_model = pickle.load(open('model/bc.pkl', 'rb'))
+kd_model = load_model('model/kd.h5')
 # print(kd_model.summary())
-covid_model = load_model('webapp/model/covid.h5')
+covid_model = load_model('model/covid.h5')
 
 
 @app.route('/')
